@@ -29,6 +29,7 @@ Then follow the instructions in the [DRLND GitHub repository](https://github.com
 
 ### Step 2: Download the Unity Environment
 Download a customized Unity Environment from one of the links below. You need only select the environment that matches your operating system:
+
 **Version 1: One (1) Agent**
 - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Linux.zip)
 - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher.app.zip)
