@@ -12,10 +12,14 @@ Each **action** is a vector with **four numbers**, corresponding to *torque* app
 
 ### Solving the Environment
 The project has two separate versions of the Unity environment:
+
 **The First Version**
-The task is episodic with a single agent, and in order to solve the environment, the agent must get an average score of **+30** over 100 consecutive episodes.
+
+The first version contains a single agent.
+The task is episodic, and in order to solve the environment, the agent must get an average score of **+30** over 100 consecutive episodes.
 
 **The Second Version**
+
 The second version contains 20 identical agents, each with its own copy of the environment.
 The environment is considered solved, when the average (over 100 episodes) of the **average scores**  (over all 20 agents) is at least **+30**.
 
